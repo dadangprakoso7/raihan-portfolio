@@ -1,13 +1,13 @@
 [
   {
     "id": "video-insta-1",
-    "fileName": "insta-video-1",
-    "title": "Insta",
+    "fileName": "Luminos-video-1",
+    "title": "Luminos",
     "description": "Video stored locally in the public folder",
     "fileUrl": "",
     "image": "/media/thumb/video-capture-t0012.65seg-4207.png",
     "tag": "videos",
-    "subTag": "instagram",
+    "subTag": "luminos",
     "type": "video",
     "videoUrl": "https://res.cloudinary.com/dy87bkuse/video/upload/v1766019741/luminos_gqil8y.mp4",
     "videoType": "local",
