@@ -1,0 +1,75 @@
+[
+  {
+    "id": "luminos-1",
+    "fileName": "luminos-1.jpg",
+    "title": "Luminos Entertain Event Visual 1",
+    "description": "Event documentation for Luminos Entertain with professional visual storytelling",
+    "fileUrl": "/media/image/works/luminos-entertain/luminos-1.jpg",
+    "image": "/media/image/works/luminos-entertain/luminos-1.jpg",
+    "tag": "works",
+    "subTag": "luminos-entertain",
+    "type": "photo",
+    "year": 2024,
+    "featured": true
+  },
+  {
+    "id": "luminos-2",
+    "fileName": "luminos-2.jpg",
+    "title": "Luminos Entertain Event Visual 2",
+    "description": "Stage performance moment from Luminos Entertain event",
+    "fileUrl": "/media/image/works/luminos-entertain/luminos-2.jpg",
+    "image": "/media/image/works/luminos-entertain/luminos-2.jpg",
+    "tag": "works",
+    "subTag": "luminos-entertain",
+    "type": "photo",
+    "year": 2024
+  },
+  {
+    "id": "luminos-3",
+    "fileName": "luminos-3.jpg",
+    "title": "Luminos Entertain Event Visual 3",
+    "description": "Audience atmosphere captured during Luminos Entertain show",
+    "fileUrl": "/media/image/works/luminos-entertain/luminos-3.jpg",
+    "image": "/media/image/works/luminos-entertain/luminos-3.jpg",
+    "tag": "works",
+    "subTag": "luminos-entertain",
+    "type": "photo",
+    "year": 2024
+  },
+  {
+    "id": "luminos-4",
+    "fileName": "luminos-4.jpg",
+    "title": "Luminos Entertain Event Visual 4",
+    "description": "Lighting and stage setup for Luminos Entertain performance",
+    "fileUrl": "/media/image/works/luminos-entertain/luminos-4.jpg",
+    "image": "/media/image/works/luminos-entertain/luminos-4.jpg",
+    "tag": "works",
+    "subTag": "luminos-entertain",
+    "type": "photo",
+    "year": 2024
+  },
+  {
+    "id": "luminos-5",
+    "fileName": "luminos-5.jpg",
+    "title": "Luminos Entertain Event Visual 5",
+    "description": "Performer close-up shot during Luminos Entertain event",
+    "fileUrl": "/media/image/works/luminos-entertain/luminos-5.jpg",
+    "image": "/media/image/works/luminos-entertain/luminos-5.jpg",
+    "tag": "works",
+    "subTag": "luminos-entertain",
+    "type": "photo",
+    "year": 2024
+  },
+  {
+    "id": "luminos-6",
+    "fileName": "luminos-6.jpg",
+    "title": "Luminos Entertain Event Visual 6",
+    "description": "Final highlight moment from Luminos Entertain event",
+    "fileUrl": "/media/image/works/luminos-entertain/luminos-6.jpg",
+    "image": "/media/image/works/luminos-entertain/luminos-6.jpg",
+    "tag": "works",
+    "subTag": "luminos-entertain",
+    "type": "photo",
+    "year": 2024
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "video-local-1",
+    "fileName": "local-video-1",
+    "title": "It's Studio",
+    "description": "Video stored locally in the public folder",
+    "fileUrl": "",
+    "image": "/media/thumb/video-capture-t0002.13seg-9011.png",
+    "tag": "works",
+    "subTag": "its-studio",
+    "type": "video",
+    "videoUrl": "https://res.cloudinary.com/dy87bkuse/video/upload/v1766019725/its-studio_bvodg8.mp4",
+    "videoType": "local",
+    "category": "Videos",
+    "year": 2024,
+    "featured": false
+  }
+]

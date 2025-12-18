@@ -1,0 +1,74 @@
+[
+  {
+    "id": "enamore-1",
+    "fileName": "enamore-1.jpg",
+    "title": "Enamore Stage – Art Installation 1",
+    "description": "Modern art installation for Enamore stage production",
+    "fileUrl": "/media/image/stage/enamore/enamore-1.jpg",
+    "image": "/media/image/stage/enamore/enamore-1.jpg",
+    "tag": "stages",
+    "subTag": "enamore",
+    "type": "photo",
+    "year": 2024
+  },
+  {
+    "id": "enamore-2",
+    "fileName": "enamore-2.jpg",
+    "title": "Enamore Stage – Art Installation 2",
+    "description": "Modern art installation for Enamore stage production",
+    "fileUrl": "/media/image/stage/enamore/enamore-2.jpg",
+    "image": "/media/image/stage/enamore/enamore-2.jpg",
+    "tag": "stages",
+    "subTag": "enamore",
+    "type": "photo",
+    "year": 2024
+  },
+  {
+    "id": "enamore-3",
+    "fileName": "enamore-3.jpg",
+    "title": "Enamore Stage – Art Installation 3",
+    "description": "Modern art installation for Enamore stage production",
+    "fileUrl": "/media/image/stage/enamore/enamore-3.jpg",
+    "image": "/media/image/stage/enamore/enamore-3.jpg",
+    "tag": "stages",
+    "subTag": "enamore",
+    "type": "photo",
+    "year": 2024
+  },
+  {
+    "id": "enamore-4",
+    "fileName": "enamore-4.jpg",
+    "title": "Enamore Stage – Art Installation 4",
+    "description": "Modern art installation for Enamore stage production",
+    "fileUrl": "/media/image/stage/enamore/enamore-4.jpg",
+    "image": "/media/image/stage/enamore/enamore-4.jpg",
+    "tag": "stages",
+    "subTag": "enamore",
+    "type": "photo",
+    "year": 2024
+  },
+  {
+    "id": "enamore-5",
+    "fileName": "enamore-5.jpg",
+    "title": "Enamore Stage – Art Installation 5",
+    "description": "Modern art installation for Enamore stage production",
+    "fileUrl": "/media/image/stage/enamore/enamore-5.jpg",
+    "image": "/media/image/stage/enamore/enamore-5.jpg",
+    "tag": "stages",
+    "subTag": "enamore",
+    "type": "photo",
+    "year": 2024
+  },
+  {
+    "id": "enamore-6",
+    "fileName": "enamore-6.jpg",
+    "title": "Enamore Stage – Art Installation 6",
+    "description": "Modern art installation for Enamore stage production",
+    "fileUrl": "/media/image/stage/enamore/enamore-6.jpg",
+    "image": "/media/image/stage/enamore/enamore-6.jpg",
+    "tag": "stages",
+    "subTag": "enamore",
+    "type": "photo",
+    "year": 2024
+  }
+]

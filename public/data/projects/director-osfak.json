@@ -1,0 +1,18 @@
+[
+  {
+    "id": "director-osfak-1",
+    "fileName": "Osfak-fikom.mp4",
+    "title": "Local Video 1",
+    "description": "Video stored locally in the public folder",
+    "fileUrl": "",
+    "image": "/media/thumb/video-capture-t0093.37seg-5192.png",
+    "tag": "projects",
+    "subTag": "director-osfak",
+    "type": "video",
+    "videoUrl": "https://res.cloudinary.com/dy87bkuse/video/upload/v1766019739/Orfak-fikom_ydqqcp.mp4",
+    "videoType": "local",
+    "category": "Videos",
+    "year": 2024,
+    "featured": false
+  }
+]

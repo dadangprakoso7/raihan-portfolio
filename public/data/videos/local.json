@@ -1,0 +1,18 @@
+[
+  {
+    "id": "video-local-1",
+    "fileName": "local-video-1",
+    "title": "Local Video 1",
+    "description": "Video stored locally in the public folder",
+    "fileUrl": "",
+    "image": "/media/thumb/video-capture-t0001.45seg-9749.png",
+    "tag": "videos",
+    "subTag": "amigos",
+    "type": "video",
+    "videoUrl": "https://res.cloudinary.com/dy87bkuse/video/upload/v1766019744/amigos_g3rwmf.mp4",
+    "videoType": "local",
+    "category": "Videos",
+    "year": 2024,
+    "featured": false
+  }
+]

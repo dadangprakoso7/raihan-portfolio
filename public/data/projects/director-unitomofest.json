@@ -1,0 +1,18 @@
+[
+  {
+    "id": "unitomo-1",
+    "fileName": "Unitomofest.mp4",
+    "title": "Local Video 1",
+    "description": "Video stored locally in the public folder",
+    "fileUrl": "",
+    "image": "/media/thumb/video-capture-t0003.13seg-7441.png",
+    "tag": "projects",
+    "subTag": "director-unitomofest",
+    "type": "video",
+    "videoUrl": "https://res.cloudinary.com/dy87bkuse/video/upload/v1766019760/Unitomofest_ceztf3.mp4",
+    "videoType": "local",
+    "category": "Videos",
+    "year": 2024,
+    "featured": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "video-insta-1",
+    "fileName": "insta-video-1",
+    "title": "Insta",
+    "description": "Video stored locally in the public folder",
+    "fileUrl": "",
+    "image": "/media/thumb/video-capture-t0012.65seg-4207.png",
+    "tag": "videos",
+    "subTag": "instagram",
+    "type": "video",
+    "videoUrl": "https://res.cloudinary.com/dy87bkuse/video/upload/v1766019741/luminos_gqil8y.mp4",
+    "videoType": "local",
+    "category": "Videos",
+    "year": 2024,
+    "featured": false
+  }
+]

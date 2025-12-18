@@ -1,0 +1,18 @@
+[
+  {
+    "id": "video-youtube-1",
+    "fileName": "youtube-video-1",
+    "title": "Insta",
+    "description": "Video stored locally in the public folder",
+    "fileUrl": "",
+    "image": "/media/thumb/video-capture-t0001.31seg-5045.png",
+    "tag": "videos",
+    "subTag": "youtube",
+    "type": "video",
+    "videoUrl": "https://res.cloudinary.com/dy87bkuse/video/upload/v1766019762/titilaras_yfhtlb.mp4",
+    "videoType": "local",
+    "category": "Videos",
+    "year": 2024,
+    "featured": false
+  }
+]
