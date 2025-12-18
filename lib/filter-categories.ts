@@ -50,8 +50,8 @@ export const filterCategories: FilterCategory[] = [
     name: "VIDEOS",
     folderPath: "/Videos",
     subcategories: [
-      { id: "youtube", name: "Luminos" },
-      { id: "instagram", name: "Titilaras" },
+      { id: "luminos", name: "Luminos" },
+      { id: "titilaras", name: "Titilaras" },
       { id: "amigos", name: "Amigos Show" },
     ],
   },
