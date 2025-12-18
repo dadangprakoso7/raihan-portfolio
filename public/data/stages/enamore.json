@@ -4,12 +4,12 @@
     "fileName": "enamore-1.jpg",
     "title": "Enamore Stage – Art Installation 1",
     "description": "Modern art installation for Enamore stage production",
-    "fileUrl": "/media/image/stage/enamore/enamore-1.jpg",
-    "image": "/media/image/stage/enamore/enamore-1.jpg",
+    "fileUrl": "/media/image/stage/enamore/enamore-1.JPG",
+    "image": "/media/image/stage/enamore/enamore-1.JPG",
     "tag": "stages",
     "subTag": "enamore",
     "type": "photo",
-    "year": 2024
+    "year": 2025
   },
   {
     "id": "enamore-2",
@@ -21,19 +21,19 @@
     "tag": "stages",
     "subTag": "enamore",
     "type": "photo",
-    "year": 2024
+    "year": 2025
   },
   {
     "id": "enamore-3",
     "fileName": "enamore-3.jpg",
     "title": "Enamore Stage – Art Installation 3",
     "description": "Modern art installation for Enamore stage production",
-    "fileUrl": "/media/image/stage/enamore/enamore-3.jpg",
-    "image": "/media/image/stage/enamore/enamore-3.jpg",
+    "fileUrl": "/media/image/stage/enamore/enamore-3.JPG",
+    "image": "/media/image/stage/enamore/enamore-3.JPG",
     "tag": "stages",
     "subTag": "enamore",
     "type": "photo",
-    "year": 2024
+    "year": 2025
   },
   {
     "id": "enamore-4",
@@ -45,7 +45,7 @@
     "tag": "stages",
     "subTag": "enamore",
     "type": "photo",
-    "year": 2024
+    "year": 2025
   },
   {
     "id": "enamore-5",
@@ -57,7 +57,7 @@
     "tag": "stages",
     "subTag": "enamore",
     "type": "photo",
-    "year": 2024
+    "year": 2025
   },
   {
     "id": "enamore-6",
@@ -69,6 +69,6 @@
     "tag": "stages",
     "subTag": "enamore",
     "type": "photo",
-    "year": 2024
+    "year": 2025
   }
 ]
